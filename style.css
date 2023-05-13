@@ -1,0 +1,41 @@
+
+.buttons{
+    display: flex;
+    margin-top: 100px;
+    margin-left:400px ;
+}
+.heading{
+    margin-left:470px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+#b1{
+    height: 60px;
+    width: 200px;
+    margin-left: 45px;
+}
+#b2{
+    height: 60px;
+    width: 200px;
+    margin-left: 40px;
+}
+#b3{
+    height: 60px;
+    width: 200px;
+    margin-left: 40px;
+}
+body{
+    background-color:cornsilk;
+}
+.score{
+    display: flex;
+    background-color: aliceblue;
+    width: 600px;
+    height: 100px;
+    margin-left: 480px;
+    margin-top: 90px;
+}
+.s1{
+    margin-left: 100px;
+    margin-top: 20px;
+}
