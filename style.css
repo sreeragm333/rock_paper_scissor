@@ -27,13 +27,15 @@
 body{
     background-color:cornsilk;
 }
-.score{
+#score{
     display: flex;
     background-color: aliceblue;
     width: 600px;
     height: 100px;
-    margin-left: 480px;
+    margin-left: 330px;
     margin-top: 90px;
+    padding-left: 300px;
+    padding-top: 50px;
 }
 .s1{
     margin-left: 100px;
